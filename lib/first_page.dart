@@ -7,7 +7,7 @@ class FirstPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('First'),
+        title: Text('첫 번째'),
       ),
       body: ElevatedButton(
         child: Text('다음 페이지로'),
